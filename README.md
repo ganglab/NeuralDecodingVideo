@@ -13,6 +13,8 @@
 * pytorch
 * wandb
 * pytorch_ssim
+* matplotlib
 
 Assuming you have Python 3.8 installed, you can install pytorch_ssim by running the following
-pip install pytorch_ssim 
+> pip install -r requirements.txt
+
