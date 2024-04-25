@@ -14,6 +14,9 @@
 * wandb
 * pytorch_ssim
 * matplotlib
+* seaborn
+* scikit-learn
+* imageio
 
 Assuming you have Python 3.8 installed, you can install pytorch_ssim by running the following
 > pip install -r requirements.txt
