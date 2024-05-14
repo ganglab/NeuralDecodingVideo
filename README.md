@@ -21,3 +21,6 @@
 Assuming you have Python 3.8 installed, you can install pytorch_ssim by running the following
 > pip install -r requirements.txt
 
+To replicate the results, we provide the DEMO folder where you can access detailed information at
+> experiment_info.txt
+
