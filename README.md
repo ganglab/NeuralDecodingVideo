@@ -1,4 +1,4 @@
-# This repository is for the paper "Decoding region-level visual functions from invasive EEG data"
+# This repository is for the paper "Decoding region-level visual functions from EEG data"
 
 
 
